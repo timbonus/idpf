@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Extra files
+ts_2002-2005_train_date.pickle
+ts_2002-2005_test_date.pickle
